@@ -2,7 +2,7 @@
     "arrangements":
     [
         { "id": 1, "name": "Farm Fresh Tulip Bouquet", "flowertype": "Tulips", "url": "https://images.pexels.com/photos/858192/pexels-photo-858192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
-        { "id": 2, "name": "Blossoming Blooms Basket", "flowertype": "Carnations", "url": "https://images.pexels.com/photos/136255/pexels-photo-136255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+        { "id": 2, "name": "Blossoming Blooms Basket", "flowertype": "Tulips", "url": "https://images.pexels.com/photos/136255/pexels-photo-136255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
         { "id": 3, "name": "Radiant Rhapsody Bouquet", "flowertype": "Daisies", "url": "https://images.pexels.com/photos/4041426/pexels-photo-4041426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
         { "id": 4, "name": "Exotic Breeze Orchids Basket", "flowertype": "Orchids", "url": "https://images.pexels.com/photos/3699859/pexels-photo-3699859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
         { "id": 5, "name": "Magnificent Reds", "flowertype": "Lilies", "url": "https://images.pexels.com/photos/1179026/pexels-photo-1179026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
@@ -10,7 +10,7 @@
         { "id": 7, "name": "Fresh Off the Garden Bouquet", "flowertype": "Gardenia", "url": "https://images.pexels.com/photos/4195589/pexels-photo-4195589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
         { "id": 8, "name": "Pure Enchantment Basket", "flowertype": "Chrysanthemums", "url": "https://images.pexels.com/photos/4022213/pexels-photo-4022213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
         { "id": 9, "name": "Simple Elegance Bouquet", "flowertype": "Hydrangea", "url": "https://images.pexels.com/photos/6078535/pexels-photo-6078535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
-        { "id": 10, "name": "Fields Of Bliss Bunch", "flowertype": "Alstroemeria", "url": "https://images.pexels.com/photos/2879814/pexels-photo-2879814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" }
+        { "id": 10, "name": "Fields Of Bliss Bunch", "flowertype": "Tulips", "url": "https://images.pexels.com/photos/2879814/pexels-photo-2879814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" }
     ],
     "cactuses":
     [
